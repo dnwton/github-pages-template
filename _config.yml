@@ -10,7 +10,7 @@ description: "dnwton的个人博客"
 keywords: dnwton
 timezone: Asia/Shanghai
 encoding: "utf-8"
-repository: https://github.com/dnwton/github-pages-template
+repository: mzlogin/mzlogin.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:

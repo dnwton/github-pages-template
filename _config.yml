@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://dnwton.github.io/github-pages-template/
+url: https://dnwton.github.io/github-pages-template
 date_format: "ordinal"
 title: dnwton
 subtitle: "我是dnwton"

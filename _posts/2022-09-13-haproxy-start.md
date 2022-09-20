@@ -1,8 +1,8 @@
 ---
 layout: post
-title: kubernetes安装之搭建高可用
+title: haproxy搭建
 categories: [kubernetes, cloud native, HAProxy, keepalived]
-description: kubernetes安装
+description: haproxy搭建
 keywords: kubernetes, cloud native, HAProxy, keepalived
 ---
 
